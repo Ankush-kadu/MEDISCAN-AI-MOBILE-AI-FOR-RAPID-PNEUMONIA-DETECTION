@@ -6,8 +6,11 @@ MediScan AI is designed to detect pneumonia from chest X-rays using a MobileNet 
 Features
 
 MobileNet Architecture: Leveraging the lightweight and efficient MobileNet model allows for rapid inferences and minimal resource usage on mobile devices.
+
 TensorFlow Lite: Optimizes the CNN model to run efficiently on mobile platforms.
+
 Grad-CAM Visualization: Implements Gradient-weighted Class Activation Mapping to offer interpretable visualizations of the model's predictions, enhancing trust and clarity in results.
+
 Distributed Training: Utilizes TensorFlow's TPUs and distributed training strategies to decrease model training time and scale performance effectively.
 
 Dataset
